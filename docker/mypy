@@ -1,3 +1,0 @@
-FROM jit-benchmarks:python3
-
-RUN python3 -m pip install -U mypy
